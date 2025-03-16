@@ -17,6 +17,8 @@ To use, run:
 dmmap.exe <game> <process>
 ```
 
+Where `<game>` is either `dm` or `csb` and `process` is the name of emulator process, e.g. `retroarch.exe`
+
 You can use the `x` button on keyboard to mark a location on a map with a different color. The primary usecase for this is to mark points of interest.
 
 The automapper reads the following data from memory, which it uses to draw the map as the player plays:
