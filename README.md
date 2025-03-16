@@ -25,3 +25,6 @@ The automapper reads the following data from memory, which it uses to draw the m
  - Party coordinates
  - Current level
  - Party orientation
+
+All map data is saved in the current directory.
+
